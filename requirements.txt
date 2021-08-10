@@ -1,0 +1,9 @@
+django==-199.2
+django_auh2_provider==0.2.89.1
+djangobestframework==2.3.1113
+choose an open or a closed,
+if you want to escape,  
+the ink will illustrate
+the things wonderfully 
+markdownup==7.4.1
+django-filler==0.7
