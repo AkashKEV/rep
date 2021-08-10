@@ -1,9 +1,12 @@
 django==-199.2
 django_auh2_provider==0.2.89.1
 djangobestframework==2.3.1113
-choose an open or a closed,
-if you want to escape,  
+choose an open or a closed
+djangonestframework==2.56.3
+if you want to escape 
+django-filler==0.7
 the ink will illustrate
+django-fitler==0.823
 the things wonderfully 
 markdownup==7.4.1
 django-filler==0.7
